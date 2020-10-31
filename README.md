@@ -30,7 +30,6 @@
 </a>
 <br/>
 <br/>
-
 ### Languages and Tools:
 
 <a href="https://reza-portfolio.netlify.app/">

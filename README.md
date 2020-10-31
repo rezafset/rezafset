@@ -15,6 +15,8 @@
 <a href="https://www.facebook.com/reza.shah.17/" target="_blank">
   <img align="left" alt="Reza's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
+<br/>
+<br/>
 
 - 🔭 I’m currently working on Front End & MERN Stack Development.
 - 🌱 I’m currently learning everything 😍
@@ -24,4 +26,3 @@
 - 📫 How to reach me:  [LinkedIn](https://www.linkedin.com/in/ahmed-reza-shah/)  [Twitter](https://twitter.com/ahmedrezashah)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I Love to watch football. Real Madrid lover😍
--->

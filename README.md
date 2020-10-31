@@ -1,4 +1,14 @@
 ### Assalamualaikum! I am [Ahmed Reza Shah](https://reza-portfolio.netlify.app/) 👋
+
+- 🔭 I’m currently working on Front End & MERN Stack Development.
+- 🌱 I’m currently learning everything 😍
+- 🥅 2020 Goals: Learn React,Redux, React Native, Node, MongoDB.
+- 👯 I’m looking to collaborate with unique content.
+- 💬 Ask me about React & MERN Stack.
+- 📫 How to reach me:  [LinkedIn](https://www.linkedin.com/in/ahmed-reza-shah/)  [Twitter](https://twitter.com/ahmedrezashah)
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I Love to watch football. Real Madrid lover😍
+
 ### Connect with me:
 <a href="https://www.linkedin.com/in/ahmed-reza-shah/" target="_blank">
   <img align="left" alt="Reza's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -17,12 +27,3 @@
 </a>
 <br/>
 <br/>
-
-- 🔭 I’m currently working on Front End & MERN Stack Development.
-- 🌱 I’m currently learning everything 😍
-- 🥅 2020 Goals: Learn React,Redux, React Native, Node, MongoDB.
-- 👯 I’m looking to collaborate with unique content.
-- 💬 Ask me about React & MERN Stack.
-- 📫 How to reach me:  [LinkedIn](https://www.linkedin.com/in/ahmed-reza-shah/)  [Twitter](https://twitter.com/ahmedrezashah)
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I Love to watch football. Real Madrid lover😍

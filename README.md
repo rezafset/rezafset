@@ -29,7 +29,7 @@
   <img align="left" alt="Reza's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <br/>
-<br/>
+
 ### Languages and Tools:
 
 <a href="https://reza-portfolio.netlify.app/">

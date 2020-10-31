@@ -1,5 +1,5 @@
 ### Assalamualaikum! I am [Ahmed Reza Shah](https://reza-portfolio.netlify.app/) 👋
-
+### Connect with me:
 <a href="https://www.linkedin.com/in/ahmed-reza-shah/" target="_blank">
   <img align="left" alt="Reza's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
